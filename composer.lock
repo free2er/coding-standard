@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "26afec4ab1971abaf1487caa4b8994d9",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "511a0c9cda95424854e9fc755cc3d7a0",
+    "packages": [
         {
             "name": "squizlabs/php_codesniffer",
             "version": "3.4.1",
@@ -59,6 +58,7 @@
             "time": "2019-03-19T03:22:27+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
