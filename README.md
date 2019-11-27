@@ -13,6 +13,7 @@ This standard can be installed with the [Composer](https://getcomposer.org/) dep
 3. Create phpcs configuration
 
         cp vendor/free2er/coding-standard/phpcs.xml.dist .
+        nano phpcs.xml.dist
 
 4. Done!
 
