@@ -82,6 +82,9 @@
     <rule ref="Squiz.Commenting.VariableComment.IncorrectVarType">
         <severity>0</severity>
     </rule>
+    <rule ref="Squiz.Commenting.VariableComment.TagNotAllowed">
+        <severity>0</severity>
+    </rule>
     <rule ref="Squiz.Functions.FunctionDuplicateArgument"/>
     <rule ref="Squiz.Functions.GlobalFunction"/>
     <rule ref="Squiz.Operators.IncrementDecrementUsage"/>
